@@ -1,9 +1,9 @@
-/* Autor: Andriks Imanol Ruiz M·rtinez, Realizado: 24/02/2022
+/* Autor: Andriks Imanol Ruiz Mart√≠nez, Realizado: 24/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: ProgramaciÛn Estructrada
+Materia: Programaci√≥n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de ProgramaciÛn Estructurada
+Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci√≥n Estructurada
 Muestra el uso de:
 
     -Variables enteras
@@ -14,7 +14,7 @@ Muestra el uso de:
     -for
     -Contador
     -Condicionales
-    Comentarios para la documentaciÛn interna del programa
+    Comentarios para la documentaci√≥n interna del programa
 */
 #include<stdio.h>
 int main() {
